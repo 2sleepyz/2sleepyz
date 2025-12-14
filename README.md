@@ -9,6 +9,7 @@
 </p>
 
 - **I'm** **A** **Student** **From** **Egypt** **,** **I'm** **A** **Excellent** **Programmer** **In** **Js** **,** **Python** **And** **Sql** **,**
+- **I'm** **A** **Linux** **devloper** **And Switched To Windows Recently,**
 - **I** **Like** **Making** **Tools** **Ahd** **Shi** **That** **People** **Need** **And** **Post** **Them** [**Here**](https://github.com/2tacks/Tools-i-Made/blob/main/README.md)
 - **Who** **Need** **Them,**
 
@@ -40,3 +41,5 @@
 ![**GitHub** **stats**](https://github-readme-stats.vercel.app/api?username=2tacks&show_icons=true&count_private=true)
 
 [![**Top** **Langs**](https://github-readme-stats.vercel.app/api/top-langs/?username=2tacks)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/2tacks)  
